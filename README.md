@@ -85,10 +85,91 @@ __6. Procedimiento.__
 - Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1.
 Anote los resultados medidos.
 
+   - __Simulacion Voltaje [V]__
+
    ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe8/blob/main/imageneslab8/V220.png)
+   
+                             Medida de voltaje RL=220Ω 
+			     
+   ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe8/blob/main/imageneslab8/V470.png)
+   
+                             Medida de voltaje RL=470Ω
+			     
+   ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe8/blob/main/imageneslab8/V680.png)
+   
+                             Medida de voltaje RL=680Ω 
 
- 
+   ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe8/blob/main/imageneslab8/V820.png)
+   
+                             Medida de voltaje RL=820Ω 
 
+   ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe8/blob/main/imageneslab8/V1000.png)
+   
+                             Medida de voltaje RL=1000Ω
+			     
+   ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe8/blob/main/imageneslab8/V1500.png)
+   
+                             Medida de voltaje RL=1500Ω
+			     
+   ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe8/blob/main/imageneslab8/V1800.png)
+   
+                             Medida de voltaje RL=1800Ω
+			     
+   ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe8/blob/main/imageneslab8/V2200.png)
+   
+                             Medida de voltaje RL=2200Ω
+			     
+   ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe8/blob/main/imageneslab8/V3900.png)
+   
+                             Medida de voltaje RL=3900Ω 
+			     
+   ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe8/blob/main/imageneslab8/V4700.png)
+   
+                             Medida de voltaje RL=4700Ω 
+			     
+   - __Simulación Corriente [mA]__
+
+   ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe8/blob/main/imageneslab8/I220.png)
+   
+                             Medida de corriente RL=220Ω 
+			     
+   ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe8/blob/main/imageneslab8/I470.png)
+   
+                             Medida de corriente RL=470Ω
+			     
+   ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe8/blob/main/imageneslab8/I680.png)
+   
+                             Medida de corriente RL=680Ω 
+
+   ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe8/blob/main/imageneslab8/I820.png)
+   
+                             Medida de corriente RL=820Ω 
+
+   ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe8/blob/main/imageneslab8/I1000.png)
+   
+                             Medida de corriente RL=1000Ω
+			     
+   ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe8/blob/main/imageneslab8/I1500.png)
+   
+                             Medida de corriente RL=1500Ω
+			     
+   ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe8/blob/main/imageneslab8/I1800.png)
+   
+                             Medida de corriente RL=1800Ω
+			     
+   ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe8/blob/main/imageneslab8/I2200.png)
+   
+                             Medida de corriente RL=2200Ω
+			     
+   ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe8/blob/main/imageneslab8/I3900.png)
+   
+                             Medida de corriente RL=3900Ω 
+			     
+   ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe8/blob/main/imageneslab8/I4700.png)
+   
+                             Medida de corriente RL=4700Ω 
+			     
+			     
 __7. Descripción De Prerrequisitos Y Configuración.__
 
 __8. Tabulación de Datos.__
