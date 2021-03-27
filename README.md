@@ -98,8 +98,6 @@ __13. Bibliografía.__
 __14. Anexos__
 
    - Link del Video: 
-   - Simulacion (Tinkercad): 
-   
-   - (Circuito Implementado
+   - Simulacion (Tinkercad): https://www.tinkercad.com/things/6pWZAYU9wfb-maxima-transferencia-de-potencia-lab-8/editel?sharecode=duSB2PD8lGb7C32CIhbSmVTmCU0eJPtty-UpZWJ8VWY
 
 
