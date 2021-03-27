@@ -184,7 +184,14 @@ __9. Cálculos.__
 
 __10. Preguntas propuestas__
 
+- ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su
+respuesta.
 
+
+
+- ¿Cuál fue la potencia máxima en RL? __________________Watts
+
+- ¿Para qué valor de RL se obtiene la MTP? _______________ Ω
 
 __11. Aportaciones o recomendaciones.__
 
