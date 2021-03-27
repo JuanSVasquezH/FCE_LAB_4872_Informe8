@@ -50,28 +50,46 @@ __4. Diagramas__
 __5.	Lista De Componentes__
 
    ● Fuente de Voltaje de C.D.
+   
    ● Multímetro Digital
+   
 ● Resistor de 220 Ω
+
 ● 1 Resistor de 470 Ω
+
 ● 1 Resistor de 680 Ω
+
 ● 1 Resistor de 820 Ω
-● 1 Resistor de 1 kΩ
+
+● 1 Resistor de 1 
+
 ● 1 Resistor de 1.5 kΩ
+
 ● 1 Resistor de 1.8 kΩ
+
 ● 1 Resistor de 2.2 kΩ
+
 ● 1 Resistor de 3.9 kΩ
+
 ● 1 Resistor de 4.7 kΩ
+
 ● 1 Protoboard
 
 
 __6. Procedimiento.__
+
 __7. Descripción De Prerrequisitos Y Configuración.__
+
 __8. Tabulación de Datos.__
+
 __9. Cálculos.__
+
 __10. Preguntas propuestas__
 
 
-__11. Aportaciones o recomendaciones.__ 
+
+__11. Aportaciones o recomendaciones.__
+
 __12. Conclusiones.__ 
 
 __13. Bibliografía.__
