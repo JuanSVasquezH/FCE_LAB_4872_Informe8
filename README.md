@@ -43,6 +43,9 @@ __1.2 Objetivos Específicos__
 
 __3.	Marco Teórico__ 
 
+   ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe8/blob/main/imageneslab8/D2.png)
+   
+   
    ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe8/blob/main/imageneslab8/D1.png)
    
 __4. Diagramas__
@@ -78,6 +81,13 @@ __5.	Lista De Componentes__
 
 
 __6. Procedimiento.__
+
+- Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1.
+Anote los resultados medidos.
+
+   ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe8/blob/main/imageneslab8/V220.png)
+
+ 
 
 __7. Descripción De Prerrequisitos Y Configuración.__
 
