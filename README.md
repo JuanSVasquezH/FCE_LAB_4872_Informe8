@@ -85,7 +85,10 @@ __6. Procedimiento.__
 - Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1.
 Anote los resultados medidos.
 
+
    - __Simulacion Voltaje [V]__
+
+
 
    ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe8/blob/main/imageneslab8/V220.png)
    
@@ -127,7 +130,10 @@ Anote los resultados medidos.
    
                              Medida de voltaje RL=4700Ω 
 			     
+			     
+			     
    - __Simulación Corriente [mA]__
+
 
    ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe8/blob/main/imageneslab8/I220.png)
    
@@ -185,6 +191,13 @@ __11. Aportaciones o recomendaciones.__
 __12. Conclusiones.__ 
 
 __13. Bibliografía.__
+
+
+- H.W. Jackson (1959) Introduction to Electronic Circuits, Prentice-Hall. recuperado de:https://es.wikipedia.org/wiki/Teorema_de_m%C3%A1xima_potencia#:~:text=En%20ingenier%C3%ADa%20el%C3%A9ctrica%2C%20electricidad%20y,a%20la%20resistencia%20de%20fuente.
+
+- SN (2020), Máxima transferencia de potencia, recuperado de: https://innovacionumh.es/Proyectos/P_19/Tema_1/UMH_09.htm
+
+- SN(2020),Teorema de transferencia de potencia máxima ,recuperado de:https://lafisicayquimica.com/teorema-de-transferencia-de-potencia-maxima/
 
 
 __14. Anexos__
