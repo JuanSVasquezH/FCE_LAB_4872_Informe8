@@ -43,6 +43,7 @@ __1.2 Objetivos Específicos__
 
 __3.	Marco Teórico__ 
 
+   ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe8/blob/main/imageneslab8/D1.png)
    
 __4. Diagramas__
           
