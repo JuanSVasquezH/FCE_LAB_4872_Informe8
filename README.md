@@ -50,7 +50,7 @@ __3.	Marco Teórico__
    
 __4. Diagramas__
           
-   ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe8/blob/main/imageneslab8/C.png)
+   ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe8/blob/main/imageneslab8/Esquema.png)
 
 __5.	Lista De Componentes__
 
@@ -58,7 +58,7 @@ __5.	Lista De Componentes__
    
    ● Multímetro Digital
    
-● Resistor de 220 Ω
+	● Resistor de 220 Ω
 
 ● 1 Resistor de 470 Ω
 
@@ -179,7 +179,10 @@ Anote los resultados medidos.
 			     
 __7. Descripción De Prerrequisitos Y Configuración.__
 
+
 __8. Tabulación de Datos.__
+
+![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe8/blob/main/imageneslab8/T.jpg)
 
 __9. Cálculos.__
 
