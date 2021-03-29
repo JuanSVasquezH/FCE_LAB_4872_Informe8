@@ -13,8 +13,9 @@ Tema: __Teorema de la máxima transferencia de potencia __
 
                                     TEMA	                        : 	Informe de laboratorios
  
-                                    NOMBRES       	          	:        Juan Sebastián Vásquez Hurtado 
-				                                                 Freddy Stalin Cárdenas Carrera 
+                                    NOMBRES       	          	:       Freddy Stalin Cárdenas Carrera  
+				    						Juan Sebastián Vásquez Hurtado 
+				                                                  
 
                                     NIVEL-PARALELO                  :       Segundo
 
@@ -38,7 +39,18 @@ __2.	Objetivos__
 
 __1.1 Objetivo General__
 
+ ●	Analizar y comprender los conceptos básicos del teorema de la máxima transferencia de potencia en un circuito prestablecito o equivalente(Thevenin).
+
+ ●	Analizar todo el campo y aprovechar la ejemplificación del circuito para un óptimo y eficiente calculo.
+
 __1.2 Objetivos Específicos__
+
+●	Identificar el efecto provocado en cuanto al valor de carga de una Resistencia RL y su equivalencia interna de carga de Rs 
+
+●	Calcular y comparar los resultados generados analíticos con una un circuito con la variacion de RL y con los resultados analíticos con la varaiacion de RL.
+
+●	Corroborar que los datos obtenidos por un cálculo analítico y por una simulación tienen semejanza.
+
 
 
 __3.	Marco Teórico__ 
@@ -54,31 +66,31 @@ __4. Diagramas__
 
 __5.	Lista De Componentes__
 
-   ● Fuente de Voltaje de C.D.
+	● Fuente de Voltaje de C.D.
    
-   ● Multímetro Digital
+   	● Multímetro Digital
    
 	● Resistor de 220 Ω
 
-● 1 Resistor de 470 Ω
+	● 1 Resistor de 470 Ω
 
-● 1 Resistor de 680 Ω
+	● 1 Resistor de 680 Ω
 
-● 1 Resistor de 820 Ω
+	● 1 Resistor de 820 Ω
 
-● 1 Resistor de 1 
+	● 1 Resistor de 1 
 
-● 1 Resistor de 1.5 kΩ
+	● 1 Resistor de 1.5 kΩ
 
-● 1 Resistor de 1.8 kΩ
+	● 1 Resistor de 1.8 kΩ
 
-● 1 Resistor de 2.2 kΩ
+	● 1 Resistor de 2.2 kΩ
 
-● 1 Resistor de 3.9 kΩ
+	● 1 Resistor de 3.9 kΩ
 
-● 1 Resistor de 4.7 kΩ
+	● 1 Resistor de 4.7 kΩ
 
-● 1 Protoboard
+	● 1 Protoboard
 
 
 __6. Procedimiento.__
@@ -186,6 +198,8 @@ __8. Tabulación de Datos.__
 
 __9. Cálculos.__
 
+
+
 __10. Preguntas propuestas__
 
 - ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su
@@ -199,7 +213,11 @@ respuesta.
 
 __11. Aportaciones o recomendaciones.__
 
+
+
 __12. Conclusiones.__ 
+
+
 
 __13. Bibliografía.__
 
