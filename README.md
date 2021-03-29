@@ -192,8 +192,14 @@ Anote los resultados medidos.
 __7. Descripción De Prerrequisitos Y Configuración.__
 
 - En el presente informe Hablaremos sobre la máxima transferencia de potencia el cual tenemos un circuito relativamente simple con una fuente de tensión fija conectado en serie con dos resistencias la primera tiene un valor de 1.2k y el valor de Rl(es una resitencia de carga variable).
+
+
 - debemos tomar en cuenta que el teorema de máxima tranferencia de potencia viene de la mano con el Teorema de Thévenin es decir el Equivalente Thévenin en resie con Rl (resitencia de carga), a lo que nos dice que el valor de RTH tiene que ser el mismo que Rl para que este circuito alcance su maxima trasferencia de potencia, entonces nosotro al tener un circuito con resistencias variables no tenemos una Rl que se asemeje a RTH= 1.2k por ende el valor que se acerca a dicho valor esta entre 1k y 1.5k donde entre estos valores existira una maxima tranferencia de potencia, más no podremos definir una exactamente.
+
+
 - A su vez realizamos las mediciones del circuito con sus respectivos voltajes y corrientes una vez hecho esto aplicamos la formula P=VI y aparte realizamos los calculos manualmente para verificar que dicmos valores sean los mismos o se aproximen a los reales. con estos valores ya hechos procedimos a hallar el error porcentual en cual nos dara una idea de cuanto se asemeja un valor al otro por ello vemos que los valores obtenidos no tiene mucho margen de error.
+
+
 __8. Tabulación de Datos.__
 
    ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe8/blob/main/imageneslab8/T.JPG)
