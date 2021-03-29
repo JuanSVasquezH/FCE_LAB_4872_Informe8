@@ -215,16 +215,23 @@ respuesta.
 
 
 
-- ¿Cuál fue la potencia máxima en RL? 0,0465 en RL= 1000k Watts
+- ¿Cuál fue la potencia máxima en RL? 0,0465 Watts en RL= 1000k 
 
 - ¿Para qué valor de RL se obtiene la MTP? _______________ Ω
 
 __11. Aportaciones o recomendaciones.__
 
+-Es necesario realizar varias mediciones para comprobar que los valores obtenidos los sean correctos, además para que coincida con los valores obtenidos teóricamente.
 
+-Evitar fallas en la obtencion de los calculos d error por que a partir de ello nos basamos en un analisis.
 
 __12. Conclusiones.__ 
 
+- Los valores obtenidos teóricamente coinciden, en su gran mayoría, con los valores obtenidos en la simulación como se muestra en la tabla. estos valores simulados también dependen de los simuladores utilizados.
+
+- Nos dimos cuenta de que la obtención de un circuito equivalente específicamente de Thévenin es de vital importancia en cuanto a la aplicación del teorema de máxima potencia. 
+
+- Logramos evidenciar el efecto provocado en cuanto al valor de carga de RL, donde la resistencia que disipa la potencia máxima entre dos terminales es la resistencia equivalente de Thévenin  
 
 
 __13. Bibliografía.__
