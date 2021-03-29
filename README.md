@@ -211,6 +211,9 @@ __13. Bibliografía.__
 __14. Anexos__
 
    - Link del Video: 
+
+   - Diagrama en línea:  https://lucid.app/lucidchart/invitations/accept/2ca80627-37bc-4d54-9b57 90885f08f017?viewport_loc=48%2C71%2C1496%2C879%2C0_0
+
    - Simulacion (Tinkercad): https://www.tinkercad.com/things/6pWZAYU9wfb-maxima-transferencia-de-potencia-lab-8/editel?sharecode=duSB2PD8lGb7C32CIhbSmVTmCU0eJPtty-UpZWJ8VWY
 
 
