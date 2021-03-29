@@ -215,9 +215,9 @@ respuesta.
 
 
 
-- ¿Cuál fue la potencia máxima en RL? 0,0465 Watts en RL= 1000k 
+- ¿Cuál fue la potencia máxima en RL? 0,0465 Watts  
 
-- ¿Para qué valor de RL se obtiene la MTP? _______________ Ω
+- ¿Para qué valor de RL se obtiene la MTP? en RL= 1000kΩ
 
 __11. Aportaciones o recomendaciones.__
 
