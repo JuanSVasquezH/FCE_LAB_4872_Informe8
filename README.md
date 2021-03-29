@@ -50,6 +50,7 @@ __3.	Marco Teórico__
    
 __4. Diagramas__
           
+   ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe8/blob/main/imageneslab8/C.png)
 
 __5.	Lista De Componentes__
 
