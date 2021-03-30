@@ -206,7 +206,7 @@ __8. Tabulación de Datos.__
 
 __9. Cálculos.__
 
- - Los calculos realizados para le presente practica se encuentran en calpeta Anexos: https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe8/blob/main/LAB8_Calculo_Teorema%20de%20Maxima%20transferencia.pdf
+ - Los calculos realizados para le presente practica se encuentran en calpeta Anexos: https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe8/blob/main/LAB8CalculoTeorema%20de%20Maxima%20transferencia.pdf
 
 __10. Preguntas propuestas__
 
@@ -215,9 +215,13 @@ respuesta.
 
 
 
-- ¿Cuál fue la potencia máxima en RL? 0,0465 Watts  
+- ¿Cuál fue la potencia máxima en RL? 
 
-- ¿Para qué valor de RL se obtiene la MTP? en RL= 1000kΩ
+0,0465 Watts  
+
+- ¿Para qué valor de RL se obtiene la MTP? 
+
+En RL= 1000Ω
 
 __11. Aportaciones o recomendaciones.__
 
