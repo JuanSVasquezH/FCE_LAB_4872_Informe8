@@ -207,6 +207,8 @@ __8. Tabulación de Datos.__
 __9. Cálculos.__
 
  - Los calculos realizados para le presente practica se encuentran en calpeta Anexos: https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe8/blob/main/LAB8_Calculo_Teorema%20de%20Maxima%20transferencia.pdf
+
+
  - https://raw.githubusercontent.com/JuanSVasquezH/FCE_LAB_4872_Informe8/ccd26206fd82393b913d41ae0d26513cff733edc/Anexos/LAB8_Calculo_Teorema%20de%20Maxima%20transferencia.pdf?token=ASDNQBKAN2UOBVDES2CDSQDAMML6E
 
 __10. Preguntas propuestas__
@@ -221,7 +223,7 @@ Analizando cada variacion de la resistencia RL, determinams que no se cumple el 
 
 - ¿Para qué valor de RL se obtiene la MTP? 
 
-En RL= 1000Ω
+En RL= 1.2KΩ
 
 __11. Aportaciones o recomendaciones.__
 
@@ -252,7 +254,7 @@ __13. Bibliografía.__
 
 __14. Anexos__
 
-   - Link del Video: 
+   - Link del Video: https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe8/blob/main/Video/VIDEO%20MAXIMA%20TRANSFERENCIA%20DE%20POTENCIA.txt (Se encuentra en carpeta videos)
 
    - Diagrama en línea:  https://lucid.app/lucidchart/invitations/accept/2ca80627-37bc-4d54-9b57 90885f08f017?viewport_loc=48%2C71%2C1496%2C879%2C0_0
 
