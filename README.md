@@ -207,6 +207,7 @@ __8. Tabulación de Datos.__
 __9. Cálculos.__
 
  - Los calculos realizados para le presente practica se encuentran en calpeta Anexos: https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe8/blob/main/LAB8_Calculo_Teorema%20de%20Maxima%20transferencia.pdf
+ - https://raw.githubusercontent.com/JuanSVasquezH/FCE_LAB_4872_Informe8/ccd26206fd82393b913d41ae0d26513cff733edc/Anexos/LAB8_Calculo_Teorema%20de%20Maxima%20transferencia.pdf?token=ASDNQBKAN2UOBVDES2CDSQDAMML6E
 
 __10. Preguntas propuestas__
 
