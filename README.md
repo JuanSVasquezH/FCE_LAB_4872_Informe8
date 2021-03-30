@@ -206,14 +206,13 @@ __8. Tabulación de Datos.__
 
 __9. Cálculos.__
 
- - Los calculos realizados para le presente practica se encuentran en calpeta Anexos: https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe8/blob/main/LAB8CalculoTeorema%20de%20Maxima%20transferencia.pdf
+ - Los calculos realizados para le presente practica se encuentran en calpeta Anexos: https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe8/blob/main/LAB8_Calculo_Teorema%20de%20Maxima%20transferencia.pdf
 
 __10. Preguntas propuestas__
 
-- ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su
-respuesta.
+- ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
 
-
+Analizando cada variacion de la resistencia RL, determinams que no se cumple el principio del teorema de maxima transferencia porque Rl debe aproximarse a Rth y locual no se cumplio. 
 
 - ¿Cuál fue la potencia máxima en RL? 
 
@@ -231,7 +230,9 @@ __11. Aportaciones o recomendaciones.__
 
 __12. Conclusiones.__ 
 
-- Los valores obtenidos teóricamente coinciden, en su gran mayoría, con los valores obtenidos en la simulación como se muestra en la tabla. estos valores simulados también dependen de los simuladores utilizados.
+-Se demostro que  el principio de teorema de maxima potencia no se cumplio por que RL no me dio igual a Rth, es decir la potencia no se establecio correctamente o de igual forma 
+
+-  Los valores obtenidos teóricamente coinciden, en su gran mayoría, con los valores obtenidos en la simulación como se muestra en la tabla. estos valores simulados también dependen de los simuladores utilizados.
 
 - Nos dimos cuenta de que la obtención de un circuito equivalente específicamente de Thévenin es de vital importancia en cuanto a la aplicación del teorema de máxima potencia. 
 
